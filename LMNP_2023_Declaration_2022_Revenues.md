@@ -113,16 +113,18 @@ Last updated: 2026-08-24
 
 ### 2022 Tax Year (to declare in 2023)
 ```
-Rental Income (Apr 22 - Dec 31):        [❌ NEEDED]
+Rental Income (Apr 22 - Dec 31):        14 940€ ✅
 Less: Deductible Expenses:
-  - Mortgage Interest:                  [❌ NEEDED]
-  - Property Taxes (prorated):          [❌ NEEDED]
-  - Insurance:                          [❌ NEEDED]
-  - Coproperty Charges:                 [❌ NEEDED]
-  - Maintenance:                        [❌ NEEDED]
-  - Depreciation:                       [❌ NEEDED]
+  - Mortgage Interest (CA):             3 229€ ✅
+  - Property Taxes (prorated):          814€ ✅
+  - Insurance:                          104€ ✅
+  - Coproperty Charges:                 3 044€ ✅
+  - State Fees:                         204€ ✅
+  - Maintenance:                        0€
+  - Depreciation (prorated):            12 286€ ✅
   
-TAXABLE INCOME (Bénéfice Net):          [CALCULATION PENDING]
+TAXABLE INCOME (Bénéfice Net):          14 940 - 3 229 - 814 - 104 - 3 044 - 204 = 7 545€
+AFTER DEPRECIATION:                      7 545 - 12 286 = -4 741€ (LOSS)
 ```
 
 ---
