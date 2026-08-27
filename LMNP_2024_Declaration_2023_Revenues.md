@@ -1,7 +1,17 @@
 # LMNP 2024 Tax Declaration (2023 Revenues)
 
-### Status: TO START
+### Status: IN PROGRESS - DATA COLLECTION PHASE
 Last updated: 2026-08-27
+
+### Documents Found Summary ✅
+- ✅ Quittances d'assurance 2022-2025 (email thread avec pièces jointes)
+- ✅ Tableaux d'amortissement Crédit Agricole (79 rue Dutot) - Google Drive
+- ✅ Tableaux d'amortissement Crédit Lyonnais (7 rue NDV) - Google Drive
+- ✅ Avis de taxes foncières 2021-2022 - Google Drive
+- ✅ Provisions trimestrielles 2023 (4 trimestres) - Emails REGY
+- ⚠️ Avis de taxes foncières 2023 - STILL NEEDED
+- ⚠️ Relevés complets assurance 2023 - To extract from email
+- ⚠️ Justificatifs loyers 2023 - Issues in November
 
 ---
 
