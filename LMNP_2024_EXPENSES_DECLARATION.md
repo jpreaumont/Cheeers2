@@ -46,7 +46,9 @@
 - **Taxes (TVA):** 49.08€  
 - **Cost of Policy:** 26.61€  
 - **Cabinet Fees:** 10.00€  
-- **TOTAL 2024 INSURANCE:** **398.84€**  
+- **TOTAL 2024 INSURANCE:** **398.84€** ✅
+
+**Source:** Email from ACMANS (Clémence HEROUIN) dated 25/08/2026 with attachment "029-Police n° 5094483404 (2024).pdf"
 
 #### 79 rue Dutot - NEEDED ⏳
 - Status: Need to locate 2024 ACMANS insurance document
