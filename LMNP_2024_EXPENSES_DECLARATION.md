@@ -1,9 +1,15 @@
 # LMNP 2024 TAX DECLARATION - EXPENSES & AMORTIZATION
-## Complete Analysis for Tax Year 2024 (2023 Revenues)
+## Complete Analysis for Tax Year 2024 (2024 Revenues)
 
-**Last Updated:** 2026-08-28  
-**Status:** EXPENSES EXTRACTION IN PROGRESS  
+**Last Updated:** 2026-08-31  
+**Status:** DOCUMENTS LOCATED - EXTRACTION IN PROGRESS  
 **Target:** Complete 2024 revenue & expense summary for both properties
+
+### Document Location Summary (as of 2026-08-31):
+- ✅ **7 rue NDV Insurance (2024):** CONFIRMED - 398.84€ (AXA, Policy 5094483404)
+- 📧 **7 rue NDV Charges (2024):** LOCATED - Email 15/12/2025, Attachment: RG_CC_20240101_190227.pdf
+- 📧 **79 rue Dutot Insurance (2024):** LOCATED - ACMANS email 25/08/2026, Attachment: 031-Police n° 21148831304.pdf
+- 📧 **79 rue Dutot Charges (2024):** LOCATED - REGY quarterly provisions (4 emails, Q1-Q4 2024)
 
 ---
 
@@ -214,24 +220,39 @@ COMBINED NET TAXABLE INCOME:             22,050€ (approx)
 
 ## OUTSTANDING ITEMS & ACTION PLAN
 
-### PRIORITY 1 - COMPLETE RENTAL INCOME:
-- [ ] Locate May-December 2024 quittances for rue Dutot (8 months missing)
-- [ ] Locate August-December 2024 quittances for rue NDV (5 months missing)
-- [ ] Confirm exact rental totals for full year 2024
+### PRIORITY 1 - EXTRACT AMOUNTS FROM LOCATED DOCUMENTS:
+
+**INSURANCE - PENDING EXTRACTION:**
+- [ ] Extract 2024 amount from: ACMANS "031-Police n° 21148831304.pdf" (79 rue Dutot)
+  - Email from Clémence HEROUIN, dated 25/08/2026
+  - Contains 2022, 2023, 2024 data for rue Dutot
+
+**COPROPERTY CHARGES - PENDING EXTRACTION:**
+- [ ] Extract total 2024 from: SAFAR "RG_CC_20240101_190227.pdf" (7 rue NDV)
+  - Email from Carmen HERNANDEZ, dated 15/12/2025
+  - Subject: "Régularisation des charges au 31.12.2024"
+  
+- [ ] Sum quarterly provisions for: REGY 79 rue Dutot 2024
+  - Q1 2024: Email 18/12/2023 (Subject: "PROVISION DU 1° TRIMESTRE 2024")
+  - Q2 2024: Email 21/03/2024 (Subject: "PROVISION DU 2° TRIMESTRE 2024")
+  - Q3 2024: Email 25/06/2024 (Subject: "PROVISION DU 3° TRIMESTRE 2024")
+  - Q4 2024: Email 18/09/2024 (Subject: "PROVISION DU 4° TRIMESTRE 2024")
 
 ### PRIORITY 2 - EXTRACT MORTGAGE DATA:
 - [ ] Download & extract 2024 Crédit Agricole interest statement (rue Dutot)
 - [ ] Download & extract 2024 Crédit Lyonnais interest + insurance statement (rue NDV)
 - [ ] Verify capital remaining due as of 31/12/2024
 
-### PRIORITY 3 - OBTAIN TAX & OPERATING EXPENSES:
+### PRIORITY 3 - OBTAIN TAX ASSESSMENTS:
 - [ ] Request 2024 Avis d'Imposition Foncière for rue Dutot
 - [ ] Request 2024 Avis d'Imposition Foncière for rue NDV
-- [ ] Obtain 2024 Property Insurance quote/receipt for rue Dutot (ACMANS)
-- [ ] Request 2024 Coproperty charges summary from REGY (rue Dutot)
-- [ ] Request 2024 Coproperty charges summary from SAFAR (rue NDV)
 
-### PRIORITY 4 - VERIFY DEPRECIATION:
+### PRIORITY 4 - VERIFY RENTAL INCOME:
+- [ ] Locate May-December 2024 quittances for rue Dutot (8 months missing)
+- [ ] Locate August-December 2024 quittances for rue NDV (5 months missing)
+- [ ] Confirm exact rental totals for full year 2024
+
+### PRIORITY 5 - VERIFY DEPRECIATION:
 - [ ] Confirm depreciation basis remains unchanged from 2022
 - [ ] Apply correct annual depreciation amounts per property
 - [ ] Calculate cumulative depreciation totals
