@@ -148,19 +148,40 @@
 
 ## SUMMARY OF 2024 EXPENSES BY CATEGORY
 
-| Category | 79 rue Dutot | 7 rue NDV | Combined |
-|----------|--------------|----------|----------|
-| **Mortgage Interest** | ~3,237€ | ~5,050€ | ~8,287€ |
-| **Mortgage Insurance** | - | ~771€ | ~771€ |
-| **Property Insurance** | ~104€* | 398.84€ | ~503€ |
-| **Property Taxes** | ~814€ | ~1,085€ | ~1,899€ |
-| **Coproperty Charges** | ~3,044€ | ~1,500€ | ~4,544€ |
-| **Depreciation** | ~9,350€ | ~7,800€ | ~17,150€ |
-| | | | |
-| **TOTAL DEDUCTIBLE** | ~17,549€ | ~16,605€ | **~34,154€** |
-| **DEPRECIATION** | ~9,350€ | ~7,800€ | ~17,150€ |
+| Category | 79 rue Dutot | 7 rue NDV | Combined | Status |
+|----------|--------------|----------|----------|--------|
+| **Mortgage Interest** | ~3,237€* | ~5,050€* | ~8,287€ | Est. from 2023 |
+| **Mortgage Insurance** | - | ~771€* | ~771€ | Est. from 2023 |
+| **Property Insurance** | ~104€** | **398.84€** ✅ | **502.84€** | 1 confirmed |
+| **Property Taxes** | ~814€* | ~1,085€* | ~1,899€ | 2023 reference |
+| **Coproperty Charges** | ~3,181€*** | *PENDING | ~3,181€ | SAFAR PDF awaiting extraction |
+| **Depreciation** | ~9,350€ | ~7,800€ | ~17,150€ | 2023 rate continued |
+| | | | | |
+| **TOTAL DEDUCTIBLE** | ~17,726€ | ~16,205€ | **~33,931€** | 1 item confirmed |
+| **DEPRECIATION** | ~9,350€ | ~7,800€ | ~17,150€ | Estimated |
 
-*2023 reference used (2024 document pending)
+**Legend:**
+- ✅ = Confirmed exact amount
+- * = Estimated from 2023 (pending 2024 mortgage statements)
+- ** = Estimated from 2023 (ACMANS insurance document located, pending PDF extraction)
+- *** = Estimated from 2024 quarterly provisions (4 × 756.76€ + 4 × 38.52€)
+
+---
+
+## EXTRACTED 2024 DATA (CONFIRMED & DOCUMENTED)
+
+### Confirmed Amounts:
+- **7 rue NDV Insurance:** 398.84€ (AXA FRANCE IARD SA, Policy 5094483404)
+  - Prime nette: 313.15€ | Taxes: 49.08€ | Cost: 26.61€ | Cabinet: 10.00€
+
+### Estimated from 2024 Quarterly Provisions:
+- **79 rue Dutot Coproperty Charges:** ~3,181.12€ 
+  - Based on Q1-Q4 2024 REGY provisions (756.76€/quarter + 38.52€ fonds travaux)
+  - Source: 4 emails with PDF attachments from REGY
+
+### Pending PDF Extraction:
+- **79 rue Dutot Insurance (ACMANS):** Document located "031-Police n° 21148831304.pdf"
+- **7 rue NDV Coproperty Charges (SAFAR):** Document located "RG_CC_20240101_190227.pdf" (dated 15/12/2025)
 
 ---
 
